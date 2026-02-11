@@ -1,0 +1,13 @@
+equirements.txt:
+
+pandas==2.1.1
+numpy==1.25.2
+scikit-learn==1.3.2
+tensorflow==2.13.0
+matplotlib==3.8.0
+✅ How to use it
+
+
+Install the dependencies using:
+
+pip install -r requirements.txt
